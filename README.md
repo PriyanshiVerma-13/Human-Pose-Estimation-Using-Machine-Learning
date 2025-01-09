@@ -1,2 +1,2 @@
 # Human-Pose-Estimation-Using-Machine-Learning
-A machine learning project for detecting and visualizing human body key points using deep learning. Built with Python, TensorFlow, and OpenCV, this repository includes preprocessing, training, and evaluation for applications in gesture recognition, sports analytics, and healthcare.
+This repository contains the implementation of a human pose estimation system using machine learning. The project leverages deep learning techniques to detect and visualize key points on the human body for applications like gesture recognition, sports analytics, and healthcare monitoring. It includes the setup, training, and evaluation of a custom pose estimation model using Python and TensorFlow, along with preprocessing and visualization tools.
